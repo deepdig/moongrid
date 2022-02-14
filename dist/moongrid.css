@@ -66,18 +66,14 @@ body {
 
 /*----- Дополнительные контейнеры ------------*/
 @media (min-width: 768px) {
-    .container-small {width: 600px;}
     .container-large {width: 860px;}
 }
 @media (min-width: 992px) {
-    .container-small {width: 800px;}
     .container-large {width: 1120px;}
 }
 @media (min-width: 1200px) {
-    .container-small {width: 960px;}
     .container-large {width: 1366px;}
 }
-.container-small,
 .container-large {max-width: 100%; border:0;}
 /*----- END. Дополнительные контейнеры ------------*/
 
