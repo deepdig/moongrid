@@ -82,11 +82,27 @@ body {
     margin-left: -15px;
 }
 
+/* --- flex --- */
 /* row-flex добавить к row для выравнивание блоков по высоте внутри контейнера */
-.row-flex {
+.row-flex, .col-flex, .flex {
   display: flex;
+}
+.row-flex {
   flex-flow: row wrap;
 }
+.col-flex {
+  flex-flow: col wrap;
+}
+.flex-justify_center {
+  justify-content: center;
+}
+.flex-justify_between {
+  justify-content: space-between;
+}
+.flex-align_center {
+  align-items: center;
+}
+/* END. --- flex --- */
 
 /* Выравнивание по центру*/
 .text-center {

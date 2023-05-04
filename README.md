@@ -16,7 +16,9 @@ A shortened version of the bootstrap, adapted to your needs. Only the grid and c
 10. 2021.09.22 - Добавлен класс .hidden
 11. 2022.02.14 - Удален класс .container-small
 12. 2022.08.17 - Для класса .form-group добавлненно свойство "position: relative";
+13. 2023.05.04 - Добавлены классы .flex, .col-flex, .flex-justify_center, .flex-justify_between, .flex-align_center
 
 
 # other
-Сжатие https://css-minifier.com
+Сжатие https://css-minifier.com 
+Сжатие https://cssminifier.org
